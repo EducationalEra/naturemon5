@@ -1,7 +1,7 @@
 {
     "gitbook": ">=3.0.0-pre.11",
-    "title": "Українська література",
-    "plugins": ["-search", "fontsettings", "sharing", "addcssjs", "quiz", "-mathjax", "-comments"],
+    "title": "Природознавство",
+    "plugins": ["-search", "fontsettings", "sharing", "addcssjs", "quiz", "mathjax", "-comments"],
     "pluginsConfig": {
         "theme-default": {
             "showLevel": true
